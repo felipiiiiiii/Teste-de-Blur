@@ -1,0 +1,11 @@
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\bin\Debug\TesteBluer.exe.config
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\bin\Debug\TesteBluer.exe
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\bin\Debug\TesteBluer.pdb
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.csprojAssemblyReference.cache
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.Form1.resources
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.Properties.Resources.resources
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.csproj.GenerateResource.cache
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.csproj.CoreCompileInputs.cache
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.exe
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.pdb
+c:\users\gmininsk\source\repos\TesteBluer\TesteBluer\obj\Debug\TesteBluer.FeelinSky.resources
